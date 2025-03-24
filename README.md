@@ -39,7 +39,7 @@ This project provides a solid foundation, but there’s room for deeper analysis
 Pull requests and suggestions are welcome! Let’s collaborate to enhance healthcare financial analytics.
 
 ## 📜 License
-MIT License - Free to use and modify.
+Free to use and modify.
 
 ---
 📧 **Contact:** [pnjujuna@gmail.com]
